@@ -769,7 +769,7 @@ You should get back ten projects.
 With the debugger still running, restore your debug browser session. Open Copilot and the "Trey Genie 3" declarative agent.
 Here are a couple of prompts to try:
 
-* +++What projects is Trey Resarch working on now?+++ (should return all the projects)
+* +++What projects is Trey Research working on now?+++ (should return all the projects)
 * +++Please add Domi as a designer on the Contoso project. Forecast 30 hours for her work.+++ (should show a confirmation card, then add Domi to the project)
 * +++What projects is Domi working on?+++ (should now include the Contoso project).
 
